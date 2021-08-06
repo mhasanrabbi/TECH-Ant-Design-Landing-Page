@@ -1,5 +1,6 @@
 import React from 'react';
 import AppAbout from '../home/About';
+import AppContact from '../home/Contact';
 import AppFaq from '../home/Faq';
 import AppFeature from '../home/Feature';
 import AppHero from '../home/Hero';
@@ -15,6 +16,7 @@ function AppHome() {
       <AppWorks/>
       <AppFaq/>
       <AppPricing/>
+      <AppContact/>
     </div>
   )
 }
