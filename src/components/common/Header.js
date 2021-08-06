@@ -1,7 +1,7 @@
 import { Menu } from 'antd';
 import React from 'react';
 
-function AppHeader() {
+const AppHeader = () => {
   return (
     <div className="container-fluid">
       <div className="header">
