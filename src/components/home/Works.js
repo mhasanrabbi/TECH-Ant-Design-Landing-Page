@@ -33,7 +33,7 @@ const AppWorks = () => {
             width={1000}
             keyboard={true}
           >
-          <iframe width="950" height="500" src="https://www.youtube.com/embed/RVNfLKS_iiw" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe width="950" height="500" src="https://www.youtube.com/embed/RVNfLKS_iiw" title="YouTube video player"  allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
           </Modal>
       </div>
     </div>
