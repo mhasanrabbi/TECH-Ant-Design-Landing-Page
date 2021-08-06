@@ -2,7 +2,7 @@ import { Layout } from 'antd';
 import 'antd/dist/antd.css';
 import React from 'react';
 import './App.css';
-import AppHeader from './components/common/header';
+import AppHeader from './components/common/Header';
 
 
 const { Header } = Layout;
