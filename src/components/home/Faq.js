@@ -11,7 +11,10 @@ function AppFaq() {
           <h2>Frequently Asked Questions</h2>
           <p>Quidem reiciendis iure, aperiam blanditiis. Alias esse, nam, ea quam</p>
         </div>
-        <Collapse defaultActiveKey={['1']}>
+        <Collapse 
+          defaultActiveKey={['1']}
+          expandIconPosition="right"
+          >
           <Panel header="How to setup the theme?" key="1">
             <p>Ut per tempor latine fuisset, cu quod posidonium vix. Mei cu erant bonorum, te ius vide maiorum hendrerit. In alii instructior vix, vis et elit maluisset, usu recusabo atomorum ut. Nibh diceret dolores vix et, id omnis adhuc maiestatis vim, ei mel legendos mnesarchum argumentum. Semper nusquam urbanitas sea te.</p>
           </Panel>
