@@ -1,8 +1,11 @@
-## Responsive landing page with **ReactJs** and **Ant Design**.
+## Responsive landing page with **ReactJS** and **Ant Design**.
 
-### Features
+### :star2:
 
-*React JS*.
-*Ant Design*.
+- React JS
+- Ant Design
+- Mobile Nav Drawer
+- Responsive
 
-> Preview https://techantd.netlify.app/#
+
+> live: https://techantd.netlify.app
