@@ -2,7 +2,7 @@
 
 ### Features
 
-*React JS*
-*Ant Design*
+*React JS*.
+*Ant Design*.
 
 > Preview https://techantd.netlify.app/#
