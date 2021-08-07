@@ -1,6 +1,6 @@
 ## Responsive landing page with **ReactJS** and **Ant Design**.
 
-### :star2:
+### :star2: Features
 
 - React JS
 - Ant Design
