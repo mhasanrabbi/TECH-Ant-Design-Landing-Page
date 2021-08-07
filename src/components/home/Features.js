@@ -12,7 +12,7 @@ const { Meta } = Card;
 
 function AppFeature() {
   return (
-    <div className="block bgGrey">
+    <div id="features" className="block bgGrey">
       <div className="container-fluid">
         <div className="titleHolder">
           <h2>Key Features and Benefits</h2>
